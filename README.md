@@ -1,5 +1,4 @@
 # Projeto-Individual.py
-
  # Sistema de Avaliação de Candidatos
 
 Este é um sistema simples para avaliação de candidatos com base em notas de diferentes etapas do processo seletivo. Ele permite cadastrar candidatos e exibir aqueles que atendem a determinados critérios de notas mínimas estabelecidas.
